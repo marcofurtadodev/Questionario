@@ -1,0 +1,10 @@
+.OptionWrapper{
+    /* display: flex; */
+    /* flex-direction: column; */
+
+}
+
+.QuestionOptions{
+    display: flex;
+    flex-direction: column;
+}
